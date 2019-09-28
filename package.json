@@ -71,6 +71,6 @@
   "dependencies": {
     "universal-ledger-agent": "^0.1.1",
     "uuid": "^3.3.2",
-    "vp-toolkit-models": "^0.1.0"
+    "vp-toolkit-models": "^0.1.1"
   }
 }
